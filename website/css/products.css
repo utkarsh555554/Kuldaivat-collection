@@ -1,0 +1,11 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Century Gothic;
+ }
+header{
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../depositphotos_74080655-stock-illustration-colorful-henna-mandala-design.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
